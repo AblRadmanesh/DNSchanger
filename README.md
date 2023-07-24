@@ -22,7 +22,7 @@
 
 |.exe|.bat|
 |-------------------|---------------|
-|[دانلود برنامه](https://github.com/AblRadmanesh/Android/files/12138375/LearnDotRoid.zip)|[دانلود فایل اجرایی](https://github.com/AblRadmanesh/DNSchanger/files/12139693/LearnDotRoid.zip)|
+|[دانلود برنامه](https://github.com/AblRadmanesh/DNSchanger/files/12151638/LearnDotRoid.zip)|[دانلود فایل اجرایی](https://github.com/AblRadmanesh/DNSchanger/files/12151446/LearnDotRoid.zip)|
 
 ```Batch Script 
 
@@ -65,10 +65,10 @@ echo selected adapter : !selected_adapter!
 echo -------------------------
 echo Select DNS:
 echo 1) 403.online
-echo 2) shekan.ir
+echo 2) shecan.ir
 echo -------------
 echo 8) delete dns
-echo ( %myRandom% ) delete Android Studio
+echo (%myRandom%) delete Android Studio
 echo 0) WebSite
 
 set /p option=Enter option:
