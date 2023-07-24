@@ -15,9 +15,10 @@
 دقت داشته باشید که این نمونه، نمونه ای ساده برای تغییر dns به روشی آسان تر در سیستم عامل ویندوز میباشد امیدوارم که این ریپو شروعی برای هرچه بهتر کردن این روش باشد
 
 
+
 | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:------:|:----:|:----:|
-|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=cIVo5sNkda8)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/24qDi)|برنامه مجموعه|
+|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=cIVo5sNkda8)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/24qDi)|راهنمای ویدیویی|
 
 
 |.exe|.bat|
