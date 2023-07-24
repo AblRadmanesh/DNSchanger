@@ -15,6 +15,11 @@
 دقت داشته باشید که این نمونه، نمونه ای ساده برای تغییر dns به روشی آسان تر در سیستم عامل ویندوز میباشد امیدوارم که این ریپو شروعی برای هرچه بهتر کردن این روش باشد
 
 
+| یوتیوب                                 | آپارات                                  | موضوع                               |
+|:------:|:----:|:----:|
+|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=cIVo5sNkda8)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/24qDi)|برنامه مجموعه|
+
+
 |.exe|.bat|
 |-------------------|---------------|
 |[دانلود برنامه](https://github.com/AblRadmanesh/Android/files/12138375/LearnDotRoid.zip)|[دانلود فایل اجرایی](https://github.com/AblRadmanesh/DNSchanger/files/12139693/LearnDotRoid.zip)|
